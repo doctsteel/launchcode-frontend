@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/launchcode-frontend/static/js/main.6cc56e84.js",
+    "main.js": "/launchcode-frontend/static/js/main.2ac03cfc.js",
     "static/js/787.cda612ba.chunk.js": "/launchcode-frontend/static/js/787.cda612ba.chunk.js",
     "index.html": "/launchcode-frontend/index.html",
-    "main.6cc56e84.js.map": "/launchcode-frontend/static/js/main.6cc56e84.js.map",
+    "main.2ac03cfc.js.map": "/launchcode-frontend/static/js/main.2ac03cfc.js.map",
     "787.cda612ba.chunk.js.map": "/launchcode-frontend/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.6cc56e84.js"
+    "static/js/main.2ac03cfc.js"
   ]
 }
